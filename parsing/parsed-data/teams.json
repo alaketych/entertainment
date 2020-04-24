@@ -1,6 +1,6 @@
 [
   {
-    "name": "",
+    "name": "Boston Celtics",
     "conference": "Eastern",
     "division": "Atlantic",
     "founder": "1946",
@@ -11,7 +11,7 @@
     "headCoach": "Brad Stevens"
   },
   {
-    "name": "",
+    "name": "Brooklyn Nets",
     "conference": "Eastern",
     "division": "Atlantic",
     "founder": "1967",
@@ -22,7 +22,7 @@
     "headCoach": "Joseph Tsai"
   },
   {
-    "name": "",
+    "name": "New York Knicks",
     "conference": "Eastern",
     "division": "Atlantic",
     "founder": "1946",
@@ -33,7 +33,7 @@
     "headCoach": "Mike Miller"
   },
   {
-    "name": "",
+    "name": "Philadelphia 76ers",
     "conference": "Eastern",
     "division": "Atlantic",
     "founder": "1946",
@@ -44,7 +44,7 @@
     "headCoach": "Brett Brown"
   },
   {
-    "name": "",
+    "name": "Toronto Raptors",
     "conference": "Eastern",
     "division": "Atlantic",
     "founder": "1995[1]",
@@ -55,7 +55,7 @@
     "headCoach": "Nick Nurse"
   },
   {
-    "name": "",
+    "name": "Chicago Bulls",
     "conference": "Eastern",
     "division": "Central",
     "founder": "1966[1]",
@@ -66,7 +66,7 @@
     "headCoach": "Jim Boylen"
   },
   {
-    "name": "",
+    "name": "Cleveland Cavaliers",
     "conference": "Eastern",
     "division": "Central",
     "founder": "1970",
@@ -77,7 +77,7 @@
     "headCoach": "Dan GilbertGordon GundUsher Raymond"
   },
   {
-    "name": "",
+    "name": "Detroit Pistons",
     "conference": "Eastern",
     "division": "Central",
     "founder": "1941",
@@ -88,7 +88,7 @@
     "headCoach": "Dwane Casey"
   },
   {
-    "name": "",
+    "name": "Indiana Pacers",
     "conference": "Eastern",
     "division": "Central",
     "founder": "1967",
@@ -99,7 +99,7 @@
     "headCoach": "Nate McMillan"
   },
   {
-    "name": "",
+    "name": "Milwaukee Bucks",
     "conference": "Eastern",
     "division": "Central",
     "founder": "1968 (1968)[1]",
@@ -110,7 +110,7 @@
     "headCoach": "Mike Budenholzer"
   },
   {
-    "name": "",
+    "name": "Atlanta Hawks",
     "conference": "Eastern",
     "division": "Southeast",
     "founder": "1946",
@@ -121,7 +121,7 @@
     "headCoach": "Lloyd Pierce"
   },
   {
-    "name": "",
+    "name": "Charlotte Hornets",
     "conference": "Eastern",
     "division": "Southeast",
     "founder": "1988",
@@ -132,7 +132,7 @@
     "headCoach": "James Borrego"
   },
   {
-    "name": "",
+    "name": "Miami Heat",
     "conference": "Eastern",
     "division": "Southeast",
     "founder": "1988",
@@ -143,7 +143,7 @@
     "headCoach": "Erik Spoelstra"
   },
   {
-    "name": "",
+    "name": "Orlando Magic",
     "conference": "Eastern",
     "division": "Southeast",
     "founder": "1989",
@@ -154,7 +154,7 @@
     "headCoach": "John Hammond"
   },
   {
-    "name": "",
+    "name": "Washington Wizards",
     "conference": "Eastern",
     "division": "Southeast",
     "founder": "1961",
@@ -165,7 +165,7 @@
     "headCoach": "Monumental Sports & Entertainment"
   },
   {
-    "name": "",
+    "name": "Denver Nuggets",
     "conference": "Western",
     "division": "Northwest",
     "founder": "1967",
@@ -176,7 +176,7 @@
     "headCoach": "Michael Malone"
   },
   {
-    "name": "",
+    "name": "Minnesota Timberwolves",
     "conference": "Western",
     "division": "Northwest",
     "founder": "1989",
@@ -187,7 +187,7 @@
     "headCoach": "Scott Layden"
   },
   {
-    "name": "",
+    "name": "Oklahoma City Thunder",
     "conference": "Western",
     "division": "Northwest",
     "founder": "1967",
@@ -198,7 +198,7 @@
     "headCoach": "Professional Basketball Club LLCClay Bennett"
   },
   {
-    "name": "",
+    "name": "Portland Trail Blazers",
     "conference": "Western",
     "division": "Northwest",
     "founder": "1970",
@@ -209,7 +209,7 @@
     "headCoach": "Terry Stotts"
   },
   {
-    "name": "",
+    "name": "Utah Jazz",
     "conference": "Western",
     "division": "Northwest",
     "founder": "1974",
@@ -220,7 +220,7 @@
     "headCoach": "Quin Snyder"
   },
   {
-    "name": "",
+    "name": "Golden State Warriors",
     "conference": "Western",
     "division": "Pacific",
     "founder": "1946",
@@ -231,7 +231,7 @@
     "headCoach": "Steve Kerr"
   },
   {
-    "name": "",
+    "name": "Los Angeles Clippers",
     "conference": "Western",
     "division": "Pacific",
     "founder": "1970",
@@ -242,7 +242,7 @@
     "headCoach": "Doc Rivers"
   },
   {
-    "name": "",
+    "name": "Los Angeles Lakers",
     "conference": "Western",
     "division": "Pacific",
     "founder": "1947",
@@ -253,7 +253,7 @@
     "headCoach": "Frank Vogel"
   },
   {
-    "name": "",
+    "name": "Phoenix Suns",
     "conference": "Western",
     "division": "Pacific",
     "founder": "1968",
@@ -264,7 +264,7 @@
     "headCoach": "Monty Williams"
   },
   {
-    "name": "",
+    "name": "Sacramento Kings",
     "conference": "Western",
     "division": "Pacific",
     "founder": "1923",
@@ -275,7 +275,7 @@
     "headCoach": "Vivek Ranadivé"
   },
   {
-    "name": "",
+    "name": "Dallas Mavericks",
     "conference": "Western",
     "division": "Southwest",
     "founder": "1980",
@@ -286,7 +286,7 @@
     "headCoach": "Mark Cuban"
   },
   {
-    "name": "",
+    "name": "Houston Rockets",
     "conference": "Western",
     "division": "Southwest",
     "founder": "1967",
@@ -297,10 +297,10 @@
     "headCoach": "Tilman Fertitta"
   },
   {
-    "name": "",
+    "name": "Memphis Grizzlies",
     "conference": "Western",
     "division": "Southwest",
-    "founder": "1995",
+    "founder": "1995; 25 years ago (1995)",
     "arena": "FedExForum",
     "mainSponsors": "FedEx",
     "president": "Jason Wexler[9]",
@@ -308,7 +308,7 @@
     "headCoach": "Taylor Jenkins"
   },
   {
-    "name": "",
+    "name": "New Orleans Pelicans",
     "conference": "Western",
     "division": "Southwest",
     "founder": "2002",
@@ -319,10 +319,10 @@
     "headCoach": "Alvin Gentry"
   },
   {
-    "name": "",
+    "name": "San Antonio Spurs",
     "conference": "Western",
     "division": "Southwest",
-    "founder": "1967",
+    "founder": "1967; 53 years ago (1967)",
     "arena": "AT&T Center",
     "mainSponsors": "Frost Bank",
     "president": "Gregg Popovich",
