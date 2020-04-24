@@ -3,7 +3,7 @@ const cheerio = require('cheerio')
 const request = require('request-promise')
 
 const teamExplore = require('./model/team')
-const playerExplore = require('./model/player')
+//const playerExplore = require('./model/player')
 const stadiumExplore = require('./model/stadium')
 
 const NBA         = 'https://www.nba.com/'
