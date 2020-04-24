@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AmericanAirlines Arena",
+    "adress": "601 Biscayne BoulevardMiami, Florida",
+    "owner": "Miami-Dade County"
+  },
+  {
+    "name": "American Airlines Center",
+    "adress": "2500 Victory AvenueDallas, Texas",
+    "owner": "City of Dallas"
+  },
+  {
+    "name": "Amway Center",
+    "adress": "400 West Church StreetOrlando, Florida",
+    "owner": ""
+  },
+  {
+    "name": "AT&T Center",
+    "adress": "1 AT&T Center ParkwaySan Antonio, Texas",
+    "owner": "Bexar CountySpurs Sports & Entertainment"
+  },
+  {
+    "name": "Bankers Life Fieldhouse",
+    "adress": "125 South Pennsylvania StreetIndianapolis, Indiana",
+    "owner": "City of IndianapolisMarion County, Indiana"
+  },
+  {
+    "name": "Barclays Center",
+    "adress": "620 Atlantic AvenueBrooklyn, New York",
+    "owner": "Empire State Development"
+  },
+  {
+    "name": "Capital One Arena",
+    "adress": "601 F Street NWWashington, D.C.",
+    "owner": "Monumental Sports & Entertainment"
+  },
+  {
+    "name": "Chase Center",
+    "adress": "1 Warriors Way[1]San Francisco, California",
+    "owner": "Golden State WarriorsGolden State Warriors"
+  },
+  {
+    "name": "",
+    "adress": "",
+    "owner": ""
+  },
+  {
+    "name": "Chesapeake Energy Arena",
+    "adress": "100 West Reno AvenueOklahoma City, Oklahoma",
+    "owner": "City of Oklahoma CitySMG"
+  },
+  {
+    "name": "FedExForum",
+    "adress": "191 Beale StreetMemphis, Tennessee",
+    "owner": "City of MemphisMemphis Basketball, LLC."
+  },
+  {
+    "name": "Fiserv Forum",
+    "adress": "1111 Vel R. Phillips AvenueMilwaukee, Wisconsin",
+    "owner": "Milwaukee Bucks"
+  },
+  {
+    "name": "Golden 1 Center",
+    "adress": "500 David J. Stern Walk[1]Sacramento, California",
+    "owner": "City of SacramentoSacramento Kings LP, LLC"
+  },
+  {
+    "name": "Little Caesars Arena",
+    "adress": "2645 Woodward Avenue[2]Detroit, Michigan[2]",
+    "owner": ""
+  },
+  {
+    "name": "Madison Square Garden",
+    "adress": "4 Pennsylvania PlazaNew York City, New York",
+    "owner": "The Madison Square Garden Company"
+  },
+  {
+    "name": "Moda Center",
+    "adress": "1 North Center Court StreetPortland, Oregon",
+    "owner": "Vulcan Inc.Rip City Management"
+  },
+  {
+    "name": "Pepsi Center",
+    "adress": "1000 Chopper CircleDenver, Colorado",
+    "owner": "Kroenke Sports & Entertainment"
+  },
+  {
+    "name": "Rocket Mortgage FieldHouse",
+    "adress": "1 Center CourtCleveland, Ohio",
+    "owner": ""
+  },
+  {
+    "name": "Scotiabank Arena",
+    "adress": "40 Bay StreetToronto, Ontario",
+    "owner": "Maple Leaf Sports & Entertainment"
+  },
+  {
+    "name": "Smoothie King Center",
+    "adress": "1501 Dave Dixon DriveNew Orleans, Louisiana",
+    "owner": "The State of LouisianaSMG"
+  },
+  {
+    "name": "Spectrum Center",
+    "adress": "333 East Trade StreetCharlotte, North Carolina",
+    "owner": "City of CharlotteHornets Sports & Entertainment"
+  },
+  {
+    "name": "Staples Center",
+    "adress": "1111 South Figueroa StreetLos Angeles, California",
+    "owner": "Anschutz Entertainment GroupAnschutz Entertainment Group"
+  },
+  {
+    "name": "State Farm Arena",
+    "adress": "1 State Farm DriveAtlanta, Georgia",
+    "owner": "Atlanta Hawks"
+  },
+  {
+    "name": "Talking Stick Resort Arena",
+    "adress": "201 East Jefferson StreetPhoenix, Arizona",
+    "owner": ""
+  },
+  {
+    "name": "Target Center",
+    "adress": "600 First Avenue NorthMinneapolis, Minnesota",
+    "owner": "Anschutz Entertainment Group"
+  },
+  {
+    "name": "TD Garden",
+    "adress": "100 Legends WayBoston, Massachusetts",
+    "owner": "Delaware North Corporation"
+  },
+  {
+    "name": "Toyota Center",
+    "adress": "1510 Polk StreetHouston, Texas",
+    "owner": "Clutch City Sports and Entertainment"
+  },
+  {
+    "name": "United Center",
+    "adress": "1901 West Madison StreetChicago, Illinois",
+    "owner": ""
+  },
+  {
+    "name": "Vivint Smart Home Arena",
+    "adress": "301 S TempleSalt Lake City, Utah",
+    "owner": "Miller FamilyLegacy TrustMiller Sports & Entertainment"
+  },
+  {
+    "name": "Wells Fargo Center",
+    "adress": "3601 South Broad StreetPhiladelphia, Pennsylvania",
+    "owner": "Comcast Spectacor"
+  }
+]

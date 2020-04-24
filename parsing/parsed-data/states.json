@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Alabama",
+    "capitalCity": "Montgomery",
+    "largestCity": "Birmingham",
+    "admission": "Dec 14, 1819",
+    "population": "4,903,185"
+  },
+  {
+    "name": "Alaska",
+    "capitalCity": "Juneau",
+    "largestCity": "Anchorage",
+    "admission": "Jan 3, 1959",
+    "population": "731,545"
+  },
+  {
+    "name": "Arizona",
+    "capitalCity": "Phoenix",
+    "largestCity": "Phoenix",
+    "admission": "Feb 14, 1912",
+    "population": "7,278,717"
+  },
+  {
+    "name": "Arkansas",
+    "capitalCity": "Little Rock",
+    "largestCity": "Little Rock",
+    "admission": "Jun 15, 1836",
+    "population": "3,017,804"
+  },
+  {
+    "name": "California",
+    "capitalCity": "Sacramento",
+    "largestCity": "Los Angeles",
+    "admission": "Sep 9, 1850",
+    "population": "39,512,223"
+  },
+  {
+    "name": "Colorado",
+    "capitalCity": "Denver",
+    "largestCity": "Denver",
+    "admission": "Aug 1, 1876",
+    "population": "5,758,736"
+  },
+  {
+    "name": "Connecticut",
+    "capitalCity": "Hartford",
+    "largestCity": "Bridgeport",
+    "admission": "Jan 9, 1788",
+    "population": "3,565,278"
+  },
+  {
+    "name": "Delaware",
+    "capitalCity": "Dover",
+    "largestCity": "Wilmington",
+    "admission": "Dec 7, 1787",
+    "population": "973,764"
+  },
+  {
+    "name": "Florida",
+    "capitalCity": "Tallahassee",
+    "largestCity": "Jacksonville",
+    "admission": "Mar 3, 1845",
+    "population": "21,477,737"
+  },
+  {
+    "name": "Georgia",
+    "capitalCity": "Atlanta",
+    "largestCity": "Atlanta",
+    "admission": "Jan 2, 1788",
+    "population": "10,617,423"
+  },
+  {
+    "name": "Hawaii",
+    "capitalCity": "Honolulu",
+    "largestCity": "Honolulu",
+    "admission": "Aug 21, 1959",
+    "population": "1,415,872"
+  },
+  {
+    "name": "Idaho",
+    "capitalCity": "Boise",
+    "largestCity": "Boise",
+    "admission": "Jul 3, 1890",
+    "population": "1,787,065"
+  },
+  {
+    "name": "Illinois",
+    "capitalCity": "Springfield",
+    "largestCity": "Chicago",
+    "admission": "Dec 3, 1818",
+    "population": "12,671,821"
+  },
+  {
+    "name": "Indiana",
+    "capitalCity": "Indianapolis",
+    "largestCity": "Indianapolis",
+    "admission": "Dec 11, 1816",
+    "population": "6,732,219"
+  },
+  {
+    "name": "Iowa",
+    "capitalCity": "Des Moines",
+    "largestCity": "Des Moines",
+    "admission": "Dec 28, 1846",
+    "population": "3,155,070"
+  },
+  {
+    "name": "Kansas",
+    "capitalCity": "Topeka",
+    "largestCity": "Wichita",
+    "admission": "Jan 29, 1861",
+    "population": "2,913,314"
+  },
+  {
+    "name": "Kentucky[E]",
+    "capitalCity": "Frankfort",
+    "largestCity": "Louisville",
+    "admission": "Jun 1, 1792",
+    "population": "4,467,673"
+  },
+  {
+    "name": "Louisiana",
+    "capitalCity": "Baton Rouge",
+    "largestCity": "New Orleans",
+    "admission": "Apr 30, 1812",
+    "population": "4,648,794"
+  },
+  {
+    "name": "Maine",
+    "capitalCity": "Augusta",
+    "largestCity": "Portland",
+    "admission": "Mar 15, 1820",
+    "population": "1,344,212"
+  },
+  {
+    "name": "Maryland",
+    "capitalCity": "Annapolis",
+    "largestCity": "Baltimore",
+    "admission": "Apr 28, 1788",
+    "population": "6,045,680"
+  },
+  {
+    "name": "Massachusetts[E]",
+    "capitalCity": "Boston",
+    "largestCity": "Boston",
+    "admission": "Feb 6, 1788",
+    "population": "6,892,503"
+  },
+  {
+    "name": "Michigan",
+    "capitalCity": "Lansing",
+    "largestCity": "Detroit",
+    "admission": "Jan 26, 1837",
+    "population": "9,986,857"
+  },
+  {
+    "name": "Minnesota",
+    "capitalCity": "St. Paul",
+    "largestCity": "Minneapolis",
+    "admission": "May 11, 1858",
+    "population": "5,639,632"
+  },
+  {
+    "name": "Mississippi",
+    "capitalCity": "Jackson",
+    "largestCity": "Jackson",
+    "admission": "Dec 10, 1817",
+    "population": "2,976,149"
+  },
+  {
+    "name": "Missouri",
+    "capitalCity": "Jefferson City",
+    "largestCity": "Kansas City",
+    "admission": "Aug 10, 1821",
+    "population": "6,137,428"
+  },
+  {
+    "name": "Montana",
+    "capitalCity": "Helena",
+    "largestCity": "Billings",
+    "admission": "Nov 8, 1889",
+    "population": "1,068,778"
+  },
+  {
+    "name": "Nebraska",
+    "capitalCity": "Lincoln",
+    "largestCity": "Omaha",
+    "admission": "Mar 1, 1867",
+    "population": "1,934,408"
+  },
+  {
+    "name": "Nevada",
+    "capitalCity": "Carson City",
+    "largestCity": "Las Vegas",
+    "admission": "Oct 31, 1864",
+    "population": "3,080,156"
+  },
+  {
+    "name": "New Hampshire",
+    "capitalCity": "Concord",
+    "largestCity": "Manchester",
+    "admission": "Jun 21, 1788",
+    "population": "1,359,711"
+  },
+  {
+    "name": "New Jersey",
+    "capitalCity": "Trenton",
+    "largestCity": "Newark",
+    "admission": "Dec 18, 1787",
+    "population": "8,882,190"
+  },
+  {
+    "name": "New Mexico",
+    "capitalCity": "Santa Fe",
+    "largestCity": "Albuquerque",
+    "admission": "Jan 6, 1912",
+    "population": "2,096,829"
+  },
+  {
+    "name": "New York",
+    "capitalCity": "Albany",
+    "largestCity": "New York",
+    "admission": "Jul 26, 1788",
+    "population": "19,453,561"
+  },
+  {
+    "name": "North Carolina",
+    "capitalCity": "Raleigh",
+    "largestCity": "Charlotte",
+    "admission": "Nov 21, 1789",
+    "population": "10,488,084"
+  },
+  {
+    "name": "North Dakota",
+    "capitalCity": "Bismarck",
+    "largestCity": "Fargo",
+    "admission": "Nov 2, 1889",
+    "population": "762,062"
+  },
+  {
+    "name": "Ohio",
+    "capitalCity": "Columbus",
+    "largestCity": "Columbus",
+    "admission": "Mar 1, 1803",
+    "population": "11,689,100"
+  },
+  {
+    "name": "Oklahoma",
+    "capitalCity": "Oklahoma City",
+    "largestCity": "Oklahoma City",
+    "admission": "Nov 16, 1907",
+    "population": "3,956,971"
+  },
+  {
+    "name": "Oregon",
+    "capitalCity": "Salem",
+    "largestCity": "Portland",
+    "admission": "Feb 14, 1859",
+    "population": "4,217,737"
+  },
+  {
+    "name": "Pennsylvania[E]",
+    "capitalCity": "Harrisburg",
+    "largestCity": "Philadelphia",
+    "admission": "Dec 12, 1787",
+    "population": "12,801,989"
+  },
+  {
+    "name": "Rhode Island[F]",
+    "capitalCity": "Providence",
+    "largestCity": "Providence",
+    "admission": "May 29, 1790",
+    "population": "1,059,361"
+  },
+  {
+    "name": "South Carolina",
+    "capitalCity": "Columbia",
+    "largestCity": "Charleston",
+    "admission": "May 23, 1788",
+    "population": "5,148,714"
+  },
+  {
+    "name": "South Dakota",
+    "capitalCity": "Pierre",
+    "largestCity": "Sioux Falls",
+    "admission": "Nov 2, 1889",
+    "population": "884,659"
+  },
+  {
+    "name": "Tennessee",
+    "capitalCity": "Nashville",
+    "largestCity": "Nashville",
+    "admission": "Jun 1, 1796",
+    "population": "6,829,174"
+  },
+  {
+    "name": "Texas",
+    "capitalCity": "Austin",
+    "largestCity": "Houston",
+    "admission": "Dec 29, 1845",
+    "population": "28,995,881"
+  },
+  {
+    "name": "Utah",
+    "capitalCity": "Salt Lake City",
+    "largestCity": "Salt Lake City",
+    "admission": "Jan 4, 1896",
+    "population": "3,205,958"
+  },
+  {
+    "name": "Vermont",
+    "capitalCity": "Montpelier",
+    "largestCity": "Burlington",
+    "admission": "Mar 4, 1791",
+    "population": "623,989"
+  },
+  {
+    "name": "Virginia[E]",
+    "capitalCity": "Richmond",
+    "largestCity": "Virginia Beach",
+    "admission": "Jun 25, 1788",
+    "population": "8,535,519"
+  },
+  {
+    "name": "Washington",
+    "capitalCity": "Olympia",
+    "largestCity": "Seattle",
+    "admission": "Nov 11, 1889",
+    "population": "7,614,893"
+  },
+  {
+    "name": "West Virginia",
+    "capitalCity": "Charleston",
+    "largestCity": "Charleston",
+    "admission": "Jun 20, 1863",
+    "population": "1,792,147"
+  },
+  {
+    "name": "Wisconsin",
+    "capitalCity": "Madison",
+    "largestCity": "Milwaukee",
+    "admission": "May 29, 1848",
+    "population": "5,822,434"
+  },
+  {
+    "name": "Wyoming",
+    "capitalCity": "Cheyenne",
+    "largestCity": "Cheyenne",
+    "admission": "Jul 10, 1890",
+    "population": "578,759"
+  }
+]
