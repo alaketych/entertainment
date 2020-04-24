@@ -7,7 +7,7 @@ const teamExplore = html => {
   return request(html)
     .then(html => {
       return {
-        name            : $('.infobox > tbody > tr:nth-child(1) > th > a',  html).text(),
+        name            : $('.infobox > tbody > tr:nth-child(1) > th',  html).text(),
         conference      : $('.infobox > tbody > tr:nth-child(4) > td > a',  html).text(),
         division        : $('.infobox > tbody > tr:nth-child(5) > td > a',  html).text(),
         founder         : $('.infobox > tbody > tr:nth-child(6) > td',      html).text(),
